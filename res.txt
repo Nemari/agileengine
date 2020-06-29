@@ -1,0 +1,12 @@
+The original page button:
+
+<a class="btn btn-success" href="#ok" id="make-everything-ok-button" onclick="javascript:window.okDone(); return false;" rel="next" title="Make-Button">
+ Make everything OK
+</a>
+
+The different page button:
+
+<a class="btn btn-success" href="#ok" onclick="javascript:window.okDone(); return false;" rel="next" title="Do-Link">
+ Do anything perfect
+</a>
+
